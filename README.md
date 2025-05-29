@@ -24,7 +24,7 @@
 ---
 
 ## 👨‍💻 Equipo de desarrollo
-
+Franco Daniel Gimenen Benitez
 
 
 ---
