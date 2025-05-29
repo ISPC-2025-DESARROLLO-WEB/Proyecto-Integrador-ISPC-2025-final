@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Equipo de desarrollo
 
-
+Agustin Exequiel Gimenez Benitez
 
 ---
 
