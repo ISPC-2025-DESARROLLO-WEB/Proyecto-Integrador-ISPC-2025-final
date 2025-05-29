@@ -24,7 +24,7 @@
 ---
 
 ## 👨‍💻 Equipo de desarrollo
-
+claudia mariela mansilla
 
 
 ---
