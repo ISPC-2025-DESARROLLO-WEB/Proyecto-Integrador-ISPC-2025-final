@@ -24,6 +24,7 @@
 ---
 
 ## 👨‍💻 Equipo de desarrollo
+Ivana Salinas
 
 
 
