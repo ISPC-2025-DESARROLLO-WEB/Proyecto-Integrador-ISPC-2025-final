@@ -27,6 +27,6 @@
 --Pablo Romero--
 
 
----
+
 
 > 🚀 Proyecto desarrollado en el marco del **Sprint 0** del curso ISPC 2025, aplicando metodologías ágiles y herramientas colaborativas como Git, GitHub y Kanban.
