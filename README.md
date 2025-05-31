@@ -25,8 +25,8 @@
 
 ## 👨‍💻 Equipo de desarrollo
 --Pablo Romero--
-
-
+Agustin Exequiel Gimenez Benitez
+Franco Daniel Gimenen Benitez
 
 
 > 🚀 Proyecto desarrollado en el marco del **Sprint 0** del curso ISPC 2025, aplicando metodologías ágiles y herramientas colaborativas como Git, GitHub y Kanban.
